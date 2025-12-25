@@ -1,0 +1,8 @@
+# General
+.DS_Store
+node_modules/
+dist/
+.env
+
+# VS Code
+.vscode/
